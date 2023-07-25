@@ -1,60 +1,55 @@
 <div align="center">
 	<h2>Santander Dev Week - Angular</h2>
 	<p>Projeto desenvolvido durante evento Santander Dev Week 2023</p>
+  <img src="https://github.com/JecianeSilva/santander-dev-week-angular-home/assets/43557425/1d008571-a4db-4e0a-bdb1-1f68730b8e79" width="500px" />
 </div>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JecianeSilva/santander-dev-week-angular-home?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JecianeSilva/santander-dev-week-angular-home">
 
-  <a href="https://github.com/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood">
+  <a href="https://github.com/JecianeSilva/santander-dev-week-angular-home/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JecianeSilva/santander-dev-week-angular-home">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood?style=social">
+   <a href="https://github.com/JecianeSilva/santander-dev-week-angular-home/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JecianeSilva/santander-dev-week-angular-home?style=social">
   </a>
 </p>
+
+![image](https://github.com/JecianeSilva/santander-dev-week-angular-home/assets/43557425/6a30163f-e793-4ec0-8735-448e0f81a735)
 
 ## Conteudo visto durante o evento e no projeto
 - Estruturar um Projeto Angular
 - Criar components dinâmicos
 - Services
 - Diretivas Angular
+- Acrescentado uma biblioteca CoreUi para Angular
 
-## Usage
+## Como usar
 
-
-📁 1. Change Directory
-
-```bash
-$ cd santander-client
-```
-
-📦 2. Install dependencys
+📦 1. Instale as dependências
 
 ```bash
 $ npm install
 ```
 
-🔧 3. Run the script
+🔧 2. Execute o projeto
 
 ```bash
 $ ng serve
 ```
 
-🌐 4. Navigate to
+🌐 3. Url de aceesso
 
 ```bash 
  http://localhost:4200/
 ```
-Runs the app in the development mode.<br/>
 
-## Autor
 
 <div align="center">
   <p>#ContratoDeCompromisso</p>
-  <p>Made by <a href="https://jecianesilva.github.io/">Jeciane Amorim</a></p>
+  <p>Criado por <a href="https://jecianesilva.github.io/">Jeciane Amorim</a></p>
 </div>
