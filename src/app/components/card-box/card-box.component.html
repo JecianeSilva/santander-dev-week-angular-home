@@ -9,20 +9,20 @@
             <p>XXXX</p>
             <p>XXXX</p>
             <p>XXXX</p>
-            <p>0123</p>
+            <p>{{accountData.card.number}}</p>
         </div>
     </div>
     <div class="card-footer">
         <div class="card-name">
-            <p>Francisca J A Silva</p>
+            <p>{{accountData.name}}</p>
         </div>
         <div class="card-account">
-            <p>Ag 0001</p>
-            <p>CC 000000-1</p>
+            <p>Ag {{accountData.account.agency}}</p>
+            <p>CC {{accountData.account.number}}</p>
         </div>
     </div>
 
     <div class="card-limit">
-        <p>Limite: 1.250,00 R$</p>
+        <p>Limite: {{accountData.card.limit.toFixed(2).replace('.',',')}} R$</p>
     </div>
 </div>

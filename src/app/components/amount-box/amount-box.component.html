@@ -1,1 +1,20 @@
-<p>amount-box works!</p>
+<div class="card-container  shadow-box">
+    <div class="card-title">
+        <app-money-icon />
+        <p>SALDO DISPONIVEL</p>
+    </div>
+
+    <div class="card-amount">
+        <p>R$</p>
+        <p>{{accountDetails.amountValue.toFixed(2).replaceAll('.',',')}}</p>
+    </div>
+    <div class="card-footer">
+        <div>
+            <hr />
+        </div>
+        <div class="card-total">
+            <p>SALDO + LIMITE:</p>
+            <p> R${{accountDetails.totalAmount.toFixed(2).replaceAll('.',',')}}</p>
+        </div>
+    </div>
+</div>
