@@ -1,89 +1,42 @@
 <div align="center">
-
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
-  <br />
-  Santander Home Clone - Angular
-</h1>
-
-  <!-- project badges -->
-  <p align="center">
- <!--
-   <img 
-      alt="Project programing languages count" 
-      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
- -->
-  <!--
-    <img 
-      alt="Last commit on GitHub" 
-      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
-  -->
-    <img 
-        src="https://img.shields.io/badge/Code%20With-Angular%2016-E31918?logo=angular" 
-        alt="Code With Angular">
-   	<img 
-      alt="GitHub license" 
-      src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
-    >
-  </p> 
-
-<div align="center">
-  	<a href="#">
-      <img src=".github/assets/preview.png" width="400" alt="preview" />
-  	</a>
+	<h2>Santander Dev Week - Angular</h2>
+	<p>Projeto desenvolvido durante evento Santander Dev Week 2023</p>
 </div>
 
-  <!-- project description and menu -->
-  <p align="center">
-      A Clone From Santander Card home page with Angular
-    <br />
-    <a 
-      href="## Usage">
-      <strong>Navigate Live Demo Now »</strong>
-    </a>
-    <br />
-    <br />
-    <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
-      Report Bug
-    </a>
-    ·
-    <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
-      Request Feature
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood?color=%2304D361">
 
-## Features
-- [x] Fully Component With Angular
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood">
 
-## Technologies & Techniques
+  <a href="https://github.com/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood">
+  </a>
 
-This project was developed with the following technologies:
--   [Angular](https://angular.io)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JecianeSilva/Bootcamp-Potencia-TechBootcamp-Potencia-Tech-powered-by-iFood?style=social">
+  </a>
+</p>
 
-
-## Building
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Conteudo visto durante o evento e no projeto
+- Estruturar um Projeto Angular
+- Criar components dinâmicos
+- Services
+- Diretivas Angular
 
 ## Usage
 
-📦 1. Install dependencys
 
-```bash
-$ npm install
-```
-
-📁 2. Change Directory
+📁 1. Change Directory
 
 ```bash
 $ cd santander-client
+```
+
+📦 2. Install dependencys
+
+```bash
+$ npm install
 ```
 
 🔧 3. Run the script
@@ -101,10 +54,7 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+<div align="center">
+  <p>#ContratoDeCompromisso</p>
+  <p>Made by <a href="https://jecianesilva.github.io/">Jeciane Amorim</a></p>
+</div>
