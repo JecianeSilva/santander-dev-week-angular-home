@@ -1,1 +1,21 @@
-<p>carousel-items works!</p>
+<c-carousel>
+  <c-carousel-inner>
+    <c-carousel-item *ngFor="let slide of slides">
+      <img
+        alt="{{slide.title}}"
+        class="d-block w-100"
+        loading="lazy"
+        src="{{slide.src}}"
+      />
+      <div class="carousel-caption">
+        <h3>{{slide.title}}</h3>
+      </div>
+    </c-carousel-item>
+  </c-carousel-inner>
+  <c-carousel-control [routerLink] direction="prev">
+    <app-arrow-left />
+  </c-carousel-control>
+  <c-carousel-control [routerLink] direction="next">
+    <app-arrow-right />
+  </c-carousel-control>
+</c-carousel>

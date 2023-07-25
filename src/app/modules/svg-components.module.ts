@@ -16,13 +16,20 @@ import { BellIconComponent } from
 import { MoneyIconComponent } from
 	'src/assets/svgs/money-icon/money-icon-component';
 
+import { ArrowLeftComponent } from
+	'src/assets/svgs/arrow-left/arrow-left.component';
+
+import { ArrowRightComponent } from
+	'src/assets/svgs/arrow-right/arrow-right.component';
 @NgModule({
 	declarations: [
 		LogoWhiteComponent,
 		SearchLogoComponent,
 		UserIconComponent,
 		BellIconComponent,
-		MoneyIconComponent
+		MoneyIconComponent,
+		ArrowLeftComponent,
+		ArrowRightComponent,
 	],
 	imports: [
 		CommonModule
@@ -32,7 +39,9 @@ import { MoneyIconComponent } from
 		SearchLogoComponent,
 		UserIconComponent,
 		BellIconComponent,
-		MoneyIconComponent
+		MoneyIconComponent,
+		ArrowLeftComponent,
+		ArrowRightComponent,
 	]
 })
 export class SvgComponentsModule { }

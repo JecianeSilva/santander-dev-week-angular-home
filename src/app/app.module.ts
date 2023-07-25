@@ -4,6 +4,7 @@ import { AppRoutingModule } from './modules/app-routing.module';
 
 import { SvgComponentsModule } from './modules/svg-components.module';
 import { HttpClientModule } from '@angular/common/http';
+import { CarouselModule } from '@coreui/angular';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './pages/home/home.component';
@@ -25,7 +26,8 @@ import { AmountBoxComponent } from './components/amount-box/amount-box.component
 		BrowserModule,
 		AppRoutingModule,
 		SvgComponentsModule,
-		HttpClientModule
+		HttpClientModule,
+		CarouselModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
